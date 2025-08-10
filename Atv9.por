@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Texto --> o
+	inclua biblioteca Texto --> o
 	funcao inicio()
 	{
 		escreva("Digite seu nome || idade || salario\n")
@@ -15,6 +15,7 @@ programa
 		}enquanto(nao (o.numero_caracteres(nome) > 3 e idade > 0 e idade < 150 e salario != 0))
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
