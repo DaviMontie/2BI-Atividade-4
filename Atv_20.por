@@ -1,7 +1,7 @@
 programa
 {
 	
-inteiro numeros[100]
+	inteiro numeros[100]
 	funcao inicio()
 	{
 		escreva("Quantos nmrs se quer? max:100\n")
