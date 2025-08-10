@@ -13,7 +13,7 @@ programa
 				correto = verdadeiro
 			}
 			senao{
-				escreva("tente novamente\n")
+				escreva("A população da 1º cidade deve ser maior que a 2º || E a taxa de crescimento da 2º deve ser maior que a 1º\n")
 			}
 		}enquanto(nao correto)
 		inteiro ano = 0
